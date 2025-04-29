@@ -71,7 +71,7 @@ File relationship:
 
 Hybrid_Genotypes.csv, Parental_Genotypes.csv and Polymorphic_SNPs.csv files are inputs for script (Script_for_analizing_F1_genotyping_results_V3.R).
 
-Analyzed_F1_data_Small_Set_For_ManuscriptSingle_crosses_(NEW_RUN).csv is the output of said script. 
+Analyzed_F1_data_single_crosses.csv is the output of said script. 
 
 
 
