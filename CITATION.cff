@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Molecular Hybrid Screening With Biallelic SNP Genotype
+  Information
+message: University of Nebraska-Lincoln
+type: software
+authors:
+  - given-names: LUIS
+    family-names: POSADAS
+    email: LPOSADAS2@UNL.EDU
+    affiliation: UNIVERSITY OF NEBRASKA-LINCOLN
+    orcid: 'https://orcid.org/0000-0002-1726-9407'
+  - name: UNIVERSITY OF NEBRASKA-LINCOLN
+    address: '1400 R St, Lincoln, NE 68588'
+    city: LINCOLN
+    country: US
+    post-code: '68588'
+    region: NORTH AMERICA
