@@ -20,11 +20,6 @@ rm ( list = ls ( ))
 #########################################################################################################################
 ####################### Script section requires manual input #########################################
 
-
-### Load the following two libraries
-library ( openxlsx )
-
-
 ### NOTE as of 09.17.18: Consider a way to substract the probability of "True self" from the probability of "True hybrid" at the end of script
 ### Also make the count of "trueHeterogenenousSNPs" true, because now it is just a subtraction, which is not accurate always
 ### Eskridge talked about weighing the probabilities
