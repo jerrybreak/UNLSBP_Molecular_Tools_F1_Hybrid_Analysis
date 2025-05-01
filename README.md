@@ -61,7 +61,7 @@ Parental_Genotypes.csv: Biallelic SNP genotype data from parental lines used for
 
 Polymorphic_SNPs.csv: File with information regarding SNP polymorphisms between two parents representing a hybrid
 
-Script_for_analizing_F1_genotyping_results_V3.R: R script to run the analysis of genotype data and output "Analyzed_F1_data_Small_Set_For_ManuscriptSingle_crosses_(NEW_RUN).csv" above
+Script_for_analizing_F1_genotyping_results_V3.R: R script to run the analysis of genotype data and output "Analyzed_F1_data_single_crosses.csv" above
 
 All files were created in April 2025.
 
